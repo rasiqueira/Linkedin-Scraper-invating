@@ -1,3 +1,3 @@
-# Linkedin-Scraper-invating
+# Linkedin-Scraper-inviting
 Scraping and inviting linkedin profiles.
 
