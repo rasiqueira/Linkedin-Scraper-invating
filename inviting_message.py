@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov  9 17:23:17 2018
-
-@author: Rodrigo
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Nov  9 16:26:00 2018
 
 @author: Rodrigo
